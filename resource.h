@@ -1,0 +1,124 @@
+﻿//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++에서 생성한 포함 파일입니다.
+// ImageControlCopy.rc에서 사용되고 있습니다.
+//
+#define IDS_ABOUTBOX                    100
+#define IDS_STRING101                   101
+#define IDD_IMAGECONTROLCOPY_DIALOG     102
+#define IDS_STRING102                   102
+#define IDS_STRING103                   103
+#define IDS_STRING104                   104
+#define IDS_STRING105                   105
+#define IDS_STRING106                   106
+#define IDS_STRING107                   107
+#define IDS_STRING108                   108
+#define IDS_STRING109                   109
+#define IDS_STRING110                   110
+#define IDS_STRING111                   111
+#define IDS_STRING112                   112
+#define IDS_STRING113                   113
+#define IDS_STRING114                   114
+#define IDS_STRING115                   115
+#define IDS_STRING116                   116
+#define IDS_STRING117                   117
+#define IDS_STRING118                   118
+#define IDS_STRING119                   119
+#define IDS_STRING120                   120
+#define IDS_STRING121                   121
+#define IDS_STRING122                   122
+#define IDS_STRING123                   123
+#define IDS_STRING124                   124
+#define IDS_STRING125                   125
+#define IDS_STRING126                   126
+#define IDS_STRING127                   127
+#define IDR_MAINFRAME                   128
+#define IDS_STRING128                   128
+#define IDS_STRING129                   129
+#define IDS_STRING130                   130
+#define IDD_ABOUTBOX                    131
+#define IDS_STRING131                   131
+#define IDS_STRING132                   132
+#define IDS_STRING133                   133
+#define IDS_STRING134                   134
+#define IDS_STRING135                   135
+#define IDS_STRING136                   136
+#define IDS_STRING137                   137
+#define IDS_STRING138                   138
+#define IDS_STRING139                   139
+#define IDS_STRING001                   140
+#define IDS_STRING002                   141
+#define IDS_STRING003                   142
+#define IDS_STRING004                   143
+#define IDS_STRING005                   144
+#define IDS_STRING006                   145
+#define IDS_STRING007                   146
+#define IDS_STRING008                   147
+#define IDS_STRING009                   148
+#define IDS_STRING010                   149
+#define IDS_STRING140                   150
+#define IDS_STRING141                   151
+#define IDS_STRING142                   152
+#define IDS_STRING143                   153
+#define IDC_STATIC_IMAGEFRAME           1001
+#define IDC_BUTTON_ABOUT                1002
+#define IDC_BUTTON_SAVEICONAS           1005
+#define IDC_BUTTON_SAVEAS               1006
+#define IDC_BUTTON_LOADIMAGE            1007
+#define IDC_EDIT_RESFILE                1008
+#define IDC_COMBO_RESLOCALE             1009
+#define IDC_BUTTON_RESFILE              1010
+#define IDC_COMBO_RESTYPE               1011
+#define IDC_COMBO_RESNAME               1012
+#define IDC_COMBO_SIZETYPE              1013
+#define IDC_COMBO_ALIGNMENT             1014
+#define IDC_STATIC_LOADOPTION           1015
+#define IDC_GROUP_RESOURCE              1016
+#define IDC_EDIT_HEIGHT                 1017
+#define IDC_STATIC_GDIPLUS              1018
+#define IDC_CHECK_MAR                   1019
+#define IDC_STATIC_RESTYPE              1020
+#define IDC_STATIC_RESNAME              1021
+#define IDC_EDIT_WIDTH                  1022
+#define IDC_GROUP_SIZEPOSITION          1023
+#define IDC_STATIC_SIZETYPE             1024
+#define IDC_GROUP_AUTHOR                1024
+#define IDC_STATIC_RESLOCALE            1025
+#define IDC_GROUP_AKNOWLEDGMENTS        1025
+#define IDC_STATIC_RESFILE              1026
+#define IDC_STATIC_AUTHOR               1026
+#define IDC_STATIC_ALIGNMENT            1027
+#define IDC_CHECK_PAN                   1028
+#define IDC_MFCLINK0                    1028
+#define IDC_CHECK_ZOOM                  1029
+#define IDC_STATIC_HEIGHT               1030
+#define IDC_STATIC_HEIGHTUNITS          1031
+#define IDC_STATIC_WIDTH                1032
+#define IDC_STATIC_WIDTHUNITS           1033
+#define IDC_STATIC_IMPORTS              1034
+#define IDC_STATIC_FILEPATH             1034
+#define IDC_STATIC_FILENAME             1035
+#define IDC_COMBO_LOADOPTION            1036
+#define IDC_EDIT_FILEPATH               1036
+#define IDC_EDIT_FILENAME               1037
+#define IDC_STATIC1                     1039
+#define IDC_MFCLINK1                    1040
+#define IDC_STATIC2                     1041
+#define IDC_MFCLINK2                    1042
+#define IDC_STATIC3                     1043
+#define IDC_MFCLINK3                    1044
+#define IDC_STATIC4                     1045
+#define IDC_MFCLINK4                    1046
+#define IDC_STATIC5                     1047
+#define IDC_MFCLINK5                    1048
+#define IDC_STATIC_VERSION              1051
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        138
+#define _APS_NEXT_COMMAND_VALUE         32771
+#define _APS_NEXT_CONTROL_VALUE         1037
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
